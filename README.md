@@ -1,5 +1,5 @@
 ### 진연경
-
+  <br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=Android+Studio&logoColor=white"/>&nbsp
