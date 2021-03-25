@@ -1,5 +1,5 @@
 ### 진연경
-## JIN YEON GYEONG
+# JIN YEON GYEONG
   <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp
